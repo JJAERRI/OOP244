@@ -1,0 +1,9 @@
+/*************************************
+workshop5 - part2
+Name: Chaerin Yoo
+Seneca Email: cyoo10@myseneca.ca
+ID: Chaerin Yoo
+Date: 2024-06-0
+*************************************/
+
+I was able to get a more in-depth grasp of operator overloading in C++ and practice it via the workshop of this program, which was based on the skills that I had previously acquired. In the programming language C++, it is possible to overload a number of operators, including binary operators, assignment operators, and format conversion operators. By eliminating the need for difficult calculations, overloading has the benefit of simplifying and simplifying the code, making it easier to understand. During the overloading process, the most essential step is to identify the kind of variable that will be situated on the left side of the operator. In my opinion, the idea of type conversion overload was the one that provided the most fascinating insights. Overloading is a relatively new concept that allows you to adapt the type of variable to the desired value. This is in addition to the fact that casting allows you to temporarily change the type of the variable. It is essential to declare the function as a const function when it comes to type conversion overloading. This ensures that the value of the object that is now being used is not altered in any way. As the session came to a close, I came away with the impression that operator overloading has the potential to make the code more understandable and tidy. It was my belief that overloading the code with an excessive number of operators could make it more difficult for other people to comprehend the code. Consequently, I believe that it is essential to own a detailed operator overloading expertise that can be comprehended by other people as well.

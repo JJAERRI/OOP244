@@ -1,0 +1,17 @@
+/*
+*****************************************************************************
+                        Workshop1 - Part2
+Full Name  : Chaerin Yoo
+Student ID#: 102998234
+Email      : cyoo10@myseneca.ca
+Section    : NCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+This workshop and the milestone projects in the earlier courses helped me to understand that header files and function declarations improve code readability, debugging, and usability as it gets more complicated. Still, I found it hard to grasp the workshop's prerequisites and material. Because pointers are by nature prone to error, it was challenging to write the correct code while utilizing const functions, arrays, and pointers together. Error-free code is also harder to produce the longer the code. Like this workshop, we worked on a doctor's appointment project in the previous milestone. In that program, we developed code that used bubble sorting to enable an array to be sorted in ascending order. This was a really challenging problem to implement, but we overcame it by using a loop that iterated until the array was sorted in ascending order. 
+The main function is a special function that acts as the program's starting point; as such, it should always be defined in the global namespace and the C++ standard mandates that it be defined with global scope. I discovered in this workshop that putting the main function in the seneca namespace will result in a compilation error. I also came to see that the modularity of dividing the code into multiple modules (file, shoppinglist, shoppintrec, shoppingapp, utils) is achieved by enabling each module to concentrate on a particular function or a collection of related functions, classes, or data structures. More scalable, readable, and maintainable code results from this modular approach. Because you only need to modify that module—not the entire project—compiling code into modules happens far more quickly.

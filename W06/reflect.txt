@@ -1,0 +1,8 @@
+*****************************
+Workshop 6 - Part2
+Name: Chaerin Yoo
+ID: 102998234
+Email: cyoo10@myseneca.ca
+*****************************
+
+	My knowledge of object copying was expanded as a result of participating in this workshop. When I was trying to create a new, duplicate object without making any changes to an existing object, I came to the realization that copying an object is absolutely necessary. The use of this is especially helpful in situations in which modifications to the duplicate should not have an effect on the original object. The act of copying can be broken down into two categories: shallow and deep. Deep copy generates a new object and recursively replicates all of the objects that are found in the original, so making the new object totally independent of the original. Shallow copy, on the other hand, makes a new object but inserts a reference that points to the original object. Participating in the class was really beneficial in terms of gaining an understanding of how each form of copy operates and recognizing potential issues that may arise from shallow copying, such as unintentional modifications to shared references. Being able to comprehend the complexities involved in deep copying complicated things that contain other objects or data structures was one of the challenges I encountered. Over the course of the workshop, however, I was able to gain a better understanding of the code and comprehend the complexity that were being discussed. The fact that object copying can enhance memory efficiency and minimize memory leaks by copying repeated files or files that need to be copied is something that I discovered, and I believe that it will be valuable in future workshops and coding.

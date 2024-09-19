@@ -1,0 +1,12 @@
+*****************************
+Workshop9 - Part2
+Name: Chaerin Yoo
+ID: 102998234
+Email: cyoo10@myseneca.ca
+Date: 2024-07-24
+*****************************
+
+Through this workshop and the recent project milestones, I have delved deeply into the principles of object-oriented programming (OOP) and C++ specific nuances. One of the primary concepts I learned was inheritance and polymorphism, particularly in the context of the Text and HtmlText classes. The Text class provides a foundation for reading and managing text from files, while the HtmlText class extends this functionality to format text as HTML. This exercise solidified my understanding of how derived classes can inherit and augment the functionalities of their base classes.
+The Text class implementation required a robust understanding of dynamic memory management, file I/O operations, and operator overloading. Handling file operations with the ifstream class and ensuring proper memory allocation and deallocation with constructors, copy constructors, assignment operators, and destructors was both challenging and rewarding. Implementing these ensured that the class could manage resources efficiently, preventing memory leaks and ensuring data integrity.
+Transitioning to the HtmlText class, I learned how to override virtual functions to provide specific behavior tailored to HTML formatting. This involved handling special characters and line breaks, transforming them into their HTML equivalents, and dealing with multiple spaces appropriately. The intricacies of converting plain text to HTML while preserving readability and structure deepened my appreciation for the importance of careful string manipulation and output formatting. But, I faced challenging. Debugging memory leaks and segmentation faults required meticulous attention to detail and a thorough understanding of pointer operations.
+Overall, this workshop has enhanced my grasp of key OOP concepts in C++, such as inheritance, polymorphism, and dynamic memory management. The practical application of these concepts in creating a robust text and HTML handling system has been invaluable, providing a strong foundation for more complex programming tasks in the future.

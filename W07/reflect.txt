@@ -1,0 +1,11 @@
+*****************************
+Workshop 7 - Part2
+Name: Chaerin Yoo
+ID: 102998234
+Email: cyoo10@myseneca.ca
+*****************************
+
+A significant part of the workshop involved practicing polymorphism through method overriding. By overriding the write and read methods in the Truck class, I was able to implement specialized behavior while adhering to the base class interface. Polymorphism is a cornerstone of object-oriented programming, promoting code reusability and flexibility by allowing different classes to be treated uniformly based on a common interface.
+The project also required the overloading of insertion (<<) and extraction (>>) operators to facilitate the input and output of MotorVehicle and Truck objects. This operator overloading simplifies the process of reading and writing object data, making the code more intuitive and user-friendly.
+Throughout the implementation phase, I encountered and addressed several challenges, such as ensuring proper memory management and handling edge cases for cargo operations in the Truck class. For instance, the addCargo method includes checks to prevent exceeding the truck's capacity, ensuring robustness. Similarly, the unloadCargo method resets the cargo load, demonstrating careful attention to maintaining valid object states.
+In conclusion, this workshop has significantly deepened my understanding of object-oriented programming concepts such as inheritance, polymorphism, and operator overloading. By applying these concepts in a practical context, I have gained valuable experience in designing and implementing robust and maintainable C++ classes. This reflection underscores the continuous learning process and the importance of revisiting and reinforcing fundamental programming principles.

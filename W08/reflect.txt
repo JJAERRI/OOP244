@@ -1,0 +1,9 @@
+*****************************
+Workshop8 - Part2
+Name: Chaerin Yoo
+ID: 102998234
+Email: cyoo10@myseneca.ca
+Date: 2024-07-17
+*****************************
+
+By finishing this training and the accompanying project milestones, I have greatly expanded my knowledge of object-oriented programming ideas—more especially, with an eye toward C++ inheritance, polymorphism, and encapsulation. I discovered the potential of polymorphism by building a base class Shape and its derived classes LblShape, Line, and Rectangle, so illustrating how inheritance might increase the capability of base classes by use of base class pointers addressing derived class objects. Using virtual features in the Shape class and superseding them in derived classes gave actual experience with polymorphism. Moreover, by means of these classes, I learned to safeguard class invariants and provide a neat interface for class interaction—as demonstrated by LblShape's label management among protected components and Rectangle and Line's handling of their particular attributes like dimensions and length. Notwithstanding the difficulties in debugging and guaranteeing the implementation of the class hierarchies, this workshop not only strengthened my academic understanding but also sharpened my actual coding abilities in C++.

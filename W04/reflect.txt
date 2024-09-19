@@ -1,0 +1,9 @@
+/*************************************
+workshop4 - part2
+Name: Chaerin Yoo
+Seneca Email: cyoo10@myseneca.ca
+ID: Chaerin Yoo
+Date: 2024-06-05
+*************************************/
+
+Through the use of private members, the data was effectively arranged, so encapsulating the qualities of the canister. In the event that it was required, the generator initialized and overloaded objects in a variety of states while simultaneously keeping the default values. Furthermore, in order to prevent memory leaking, we handled dynamic memory allocation by utilizing a destructor component. In addition, the setName and setContent functions made the code more efficient by tracking programming in such a way that the canister was valid but could only be set to a state. It is possible to properly handle both pouring a particular quantity and transferring content from another Canister with the help of the pour functions, which serves as an illustration of method overloading. These activities were really helpful since they allowed you to imitate the actual use of the canister, which allowed you to determine whether or not the class was functioning properly in a variety of scenarios. The addition of functions that are associated with the validation and error handling of the code was another way in which function overloading contributed to an enhancement in the readability and completeness of the code. By participating in this workshop, we gained a deeper understanding of memory management and the overloading of features and functions. As a result of these duties, we came to the realization that memory management through code is quite crucial.

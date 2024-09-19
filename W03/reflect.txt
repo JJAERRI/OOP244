@@ -1,0 +1,16 @@
+/*
+*****************************************************************************
+                        Workshop3 - Part2
+Full Name  : Chaerin Yoo
+Student ID#: 102998234
+Email      : cyoo10@myseneca.ca
+Section    : NCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+Making ensuring every file was compiling correctly turned out as the most crucial first step in implementing this code. I had to write and apply functions properly if I were to prevent runtime problems in the standard function library. This workshop taught me that both public and private keywords can help to seek out member variables and member functions. They are designated private by default; but, should they be scoped out, they can be accessible from outside the classroom as well. Furthermore, this course helped me to properly apply encapsulation—a crucial idea in object-oriented programs. This simplified it more sustainably. Moreover, in this session I learnt the sort structure of the table and could apply numerous member functions from cout, iostream, which are accessible from the outside using " and. To ascertain the kind of the table, I considered width, fill, unsetf, setf. To preserve form, for instance, there is a left sort, cout.setf(ios:left), or cout.setf(ios:fixed). And width lets I create intervals. Fill can also be used to cover in the blanks with characters I wish up to the width I have selected.

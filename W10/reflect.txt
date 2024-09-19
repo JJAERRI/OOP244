@@ -1,0 +1,16 @@
+/*************************************
+workshop10 - part2
+Name: Chaerin Yoo
+Seneca Email: cyoo10@myseneca.ca
+ID: Chaerin Yoo
+Date: 2024-08-01
+*************************************/
+
+Deep knowledge of the use and significance of function templates in C++ programming has come from this workshop. My learning process revolved mostly on the search and list element functions offered in the search Nlist.h file.
+
+In C++, function templates provide a strong means of writing reusable, general code. For instance, the search function template lets one look for a key among an array of objects and add the corresponding elements to a set. Templates help this feature to be more flexible by allowing it to run with different data kinds. This idea is flexible enough for many circumstances since it is like having a single pen capable of writing in several colors.
+The template for the search function finds useful applications in object collection management. Iteratively through an array and compare every element to the key to dynamically create a collection of matching objects. This method underlines the adaptability and simplicity of templates, therefore lowering the necessity of duplicate code across several data kinds.
+Another outstanding example of template application is the list array element function template. It prints a title then each element of an array in a nice line count style. This feature emphasizes how templates could streamline output formatting, therefore guaranteeing consistency across many data types without copying code.
+This workshop, then, strengthened the value of templates in C++ programming. The search and list element function templates show how well templates may be applied to manage different data kinds, hence improving the maintainability and efficiency of codes. This encounter has given me useful abilities to apply to next projects so that my code is flexible and strong.
+
+In conclusion, this workshop reinforced the importance of templates in C++ programming. The search and listArrayElements function templates exemplify how templates can be effectively utilized to handle various data types, making code more efficient and maintainable. This experience has equipped me with valuable skills that I can apply to future projects, ensuring that my code is both robust and adaptable.
